@@ -101,7 +101,7 @@ _Add screenshot of the Power Query Editor and transformation steps here._
 
 ### Cleaned Dataset
 
-_Add screenshot of the final cleaned dataset here._
+_[Add screenshot of the final cleaned dataset here.](https://github.com/Roshydah-07/Power-Query-Cleaning/blob/main/Screenshot%202026-08-16%20183442.png)_
 
 ---
 
