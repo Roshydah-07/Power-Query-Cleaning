@@ -107,7 +107,7 @@ _(https://github.com/Roshydah-07/Power-Query-Cleaning/blob/main/Screenshot%20202
 
 ## 🚀 What I Would Do Next
 
-The cleaned dataset will be taken further for exploratory analysis and visualization using Power BI.
+The cleaned dataset will be used for further exploratory analysis and visualization in Power BI.
 
 ---
 
