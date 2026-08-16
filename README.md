@@ -93,7 +93,7 @@ Through this project, I strengthened my understanding of:
 
 ### Raw Dataset
 
-_Add screenshot of the original/raw dental dataset here._
+_(https://github.com/Roshydah-07/Power-Query-Cleaning/blob/main/Screenshot%202026-08-16%20184303.png)_
 
 ### Power Query Transformation
 
