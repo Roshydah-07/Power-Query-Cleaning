@@ -1,2 +1,2 @@
 # Power-Query-Cleaning
-Cleaning and transformation in Power Query
+A self-learning project focused on cleaning and transforming a dental dataset using Microsoft Power Query.
