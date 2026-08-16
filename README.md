@@ -97,11 +97,11 @@ _Add screenshot of the original/raw dental dataset here._
 
 ### Power Query Transformation
 
-_Add screenshot of the Power Query Editor and transformation steps here._
+_(https://github.com/Roshydah-07/Power-Query-Cleaning/blob/main/Screenshot%202026-08-16%20183722.png)_
 
 ### Cleaned Dataset
 
-_[Add screenshot of the final cleaned dataset here.](https://github.com/Roshydah-07/Power-Query-Cleaning/blob/main/Screenshot%202026-08-16%20183442.png)_
+_(https://github.com/Roshydah-07/Power-Query-Cleaning/blob/main/Screenshot%202026-08-16%20183442.png)_
 
 ---
 
